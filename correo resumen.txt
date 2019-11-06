@@ -115,6 +115,7 @@ PM: Alejandro Ciruelos
 Contacto cliente:
 - Rubén Prida
 
+Actual:
 - 06-11-2019: Infra PRO entregada. Falta instalación de múltiples paquetes de software por parte del ciente.
 - Abierta petición a Cyberark de usuarios de acceso SSH y BBDD al servidor de PRE (RITM000690151)
 
@@ -123,9 +124,19 @@ DECOMISADO NETINSIGHT
 Dominio: Santander Asset Management
 PM: Beatriz Pablo Simón
 
+Actual:
 - Semana 04-11: Decomisado PRE completado
 - 06-11: decomisado Sistemas Wintel PRO ejecutado
 - Decomisado Sistemas Unix ???
+
+SPIRIT
+
+Dominio: Santander Asset Management
+PM: Beatriz Pablo Simón
+
+Actual:
+- Configurado acceso proxy para entornos PRE y PRO
+- Aún a la espera de confirmación del cliente después de casi 4 meses
 
 UK GLASGOW DRIVE MIGRATION
 
