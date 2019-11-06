@@ -68,7 +68,7 @@ Contacto cliente:
 
 Actual:
 - 06-11-2019: se ha hecho despliegue de WAR en PRE con éxito
-- Early redemption 10-12-2019
+- 10-12-2019: "early redemption" 
 
 MIGRACIÓN ALLIANZ
 
