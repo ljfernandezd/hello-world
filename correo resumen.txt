@@ -1,0 +1,43 @@
+Digital Asset Custody:
+
+- Despliegue de WAR en PRE
+- Despliegue de WAR en PRO
+- Early redemption 10-12-2019
+
+Innotech:
+
+- Problema acceso de usuarios a Qlik sense desde internet
+- Pases a PRE y PRO recientemente
+- 
+
+TreasManMega:
+
+- Pendiente de completar pase a PRE para dar inicio a pruebas UAT
+
+Migración Allianz:
+
+- Dotación infra CERT completada
+- Dotación infra PRE en curso (fecha de entrega: 14-11)
+- Petición de filesystem en servidor AIX PRE en curso (ID:
+- El cliente abrirá peticiones de importación de BBDD actuales en BBDD nuevas
+- Luego de importación BBDD Oracle provee las contraseñas de usuarios de base de datos
+- Dejar lista descripción dotación PRO?
+
+NY GEM:
+
+- Dotación infra CERT con retraso (solo Linux/Oracle) (fecha entrega: 01-11)
+- Una vez entregada infra CERT abrir nueva petición en Planner para dotación CERT Windows Sever/SQL Server
+- Dejar lista descripción tarea dotación CERT SQL Server
+
+Intranet SAM:
+
+- Dotación infra PRO con retraso (fecha entrega: 
+- Seguimiento a petición cyberark de usuarios de acceso al servidor de PRE
+- 
+
+Decomisado Netingisht:
+
+- Semana 04-11: Decomisado PRE completado
+- Pendiente decomisado PRO Wintel (06-11) y Unix (consultar fecha)
+- 
+
