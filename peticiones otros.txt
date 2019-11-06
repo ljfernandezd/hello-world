@@ -1,0 +1,42 @@
+RITM000395779     Alejandro Ciruelos            ALADDIN: Creación de estructura SAML mediante fichero obtenido de Blackrock
+
+RITM000487298     Angel Alvarez                 INTRANET SAM: Creación de regla de firewall servidor DES  
+
+INC001685432      Cristina Parejo               MEGABROKER: caída base de datos
+
+INC001727513      Cristina Parejo               MEGABROKER: caída lunes 30-09-2019
+
+INC001737171      Cristina Parejo               MEGABROKER: caída lunes 23-09-2019
+
+RITM000529007     Innotech                      INNOTECH:  modificar configuración en balanceador de API Qlik
+
+RITM000559919     Angel Alvarez                 INTRANET SAM: Creación de regla de firewall servidor DES
+
+RITM000545964     Javier Gil Tornos             ALLIANZ: Replicación BBDD SEGIAL
+
+RITM000566433     Javier Gil Tornos             ALLIANZ: Replicación BBDD SEGIAL
+
+RITM000572979     Javier Gil Tornos             ALLIANZ: Replicación BBDD SEGAPV
+
+RITM000620535     Jorge Crespo  (2019-10-23)    INNOTECH: gestionar con Producto acceso a Qlik en PRE
+
+RITM000628707     Jorge Crespo  (2019-10-24)    TreasManMega (CERT): Reseteo y desbloqueo de usuarios nominales de acceso a shell
+
+RITM000628800     Jorge Crespo   (2019-10-24)   TreasManMega (CERT): Alta de usuarios nominales en CERT
+
+RITM000628848     Jorge Crespo   (2019-10-24)   TreasManMega (CERT): Modificación de permisos de usuarios para la ejecución de scripts en WebSphere
+
+RITM000641088     Jorge Crespo   (2019-10-28)   INNOTECH (CERT): dar permisos de lectura a todos los usuarios en directorio /opt/ApacheCONF
+
+REQ000648338      Jorge Crespo   (2019-10-28)   INNOTECH (PRE/PRO): petición de cambios en load balancer para acceso a API Qlik
+
+RITM000593732     Jorge Gonzalez (2019-10-17)   INNOTECH (PRE): instalación de cliente Oracle
+
+RITM000593757     Jorge Gonzalez (2019-10-17)   INNOTECH (PRO): instalación de cliente Oracle
+
+RITM000623842     Francisco Perez Navas  (2019-10-23)    INNOTECH (PRE): petición de filesystem para cliente Oracle
+
+RITM000623885     Francisco Perez Navas  (2019-10-23)    INNOTECH (PRO): petición de filesystem para cliente Oracle
+
+RITM000665137     Juan Rivas  (2019-10-23)    MEGACOMPLIANCE (PRO): modificación de planificación
+
