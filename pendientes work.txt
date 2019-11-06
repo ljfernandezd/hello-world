@@ -1,0 +1,69 @@
+Pendientes:
+
+ACTUALIZAR PMO (VIERNES)
+
+TREASMANMEGA
+
+- Extracción de datos
+- Errores reportados por Tarek
+- Definir estrategia con Alberto e Iñaki
+
+DIGITAL ASSET CUSTODY
+
+- Despliegue de WAR en PRE
+
+MIGRACION ALLIANZ
+
+- Gestión de usuario y filesystem AIX
+- Notificar de vacaciones y contacto con Jorge Crespo
+
+OTROS
+
+- Enviar correo resumen proyectos
+- Incluir a Jorge en hilos proyectos
+- Informar a Beatriz / Ciru sobre vacaciones. Dar contacto Jorge Crespo.
+- Informar a Mario sobre vacaciones. Dar contacto Jorge Crespo.
+- Informar a Javier Gil sobre vacaciones. Dar contacto Jorge Crespo.
+- Informar a Julian Morencia / NY sobre vacaciones. Dar contacto Jorge Crespo.
+
+ALADDIN
+
+- Esperar por consulta de Mario a SAMOA
+- Aclarar estatus de unificación de usuarios
+- Notificar a Mario e informar a Jorge Crespo
+
+INTRANET SAM
+
+- Completar plantilla de Rubén y abrir petición
+- Presentar a Jorge
+
+INNOTECH
+
+- Delegar a Jorge
+
+DECOMISADO NETINSIGHT
+
+- Seguimiento a decomisado PRO Wintel / Unix
+- Presentar a Jorge
+
+NY GEM:
+
+- Enviar política default de backups a Eliana
+
+MEGACOMPLIANCE
+
+- 
+
+SETTLEMENT
+
+- 
+
+ERFCheck:
+
+- Leer hilo Yolanda-Jorge
+
+SPIRIT
+
+- Preguntar a Beatriz
+
+
