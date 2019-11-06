@@ -285,6 +285,5 @@ RITM000687291   (2019-11-06):      INNOTECH (PRO): dar permisos de escritura a t
 
 RITM000689131   (2019-11-06):      ALLIANZ (PRE): crear filesystem en servidor AIX y dar permisos a usuairo expapv
 
+RITM000690151   (2019-11-06):      INTRANET SAM (PRE): petición de acceso a cyberark
 
-
-CHG000009686849

@@ -40,3 +40,7 @@ RITM000623885     Francisco Perez Navas  (2019-10-23)    INNOTECH (PRO): petició
 
 RITM000665137     Juan Rivas  (2019-10-23)    MEGACOMPLIANCE (PRO): modificación de planificación
 
+RITM000622174     Pilar Carrasco (2019-11-06)   CYBERARK (PRE): acceso a ssh usuarios nominales
+
+
+En el marco del proyecto INTRANET SANTANDER ASSET MANAGEMENT en entorno de producción solicitamos montar 1 servidores de base de datos Oracle, todos con las siguientes características:
