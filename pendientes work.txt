@@ -5,56 +5,51 @@ ACTUALIZAR PMO (VIERNES)
 OTROS
 
 - Enviar correo resumen proyectos
-- 
-
-TREASMANMEGA
-
-- Extracción de datos
-- Errores reportados por Tarek
-- Definir estrategia con Alberto e Iñaki
-
-DIGITAL ASSET CUSTODY
-
-- Despliegue de WAR en PRE
-- Despliegue de WAR en PRO?
-
-MIGRACION ALLIANZ
-
-- Gestión de usuario y filesystem AIX
-- Notificar a Javier Gil y Nelson Contreras sobre vacaciones y contacto Jorge Crespo
-
-ALADDIN
-
-- Esperar por consulta de Mario a SAMOA
-- Aclarar estatus de unificación de usuarios
-- Notificar a Mario sobre vacaciones y contacto Jorge Crespo
-
-INTRANET SAM
-
-- Completar plantilla de Rubén y abrir petición en Snow (seguir instrucciones de Pili)
-- Notificar a Ciru sobre vacaciones y contacto Jorge Crespo
-
-INNOTECH
-
-- Petición de fileshare para control-m
-- Seguimiento filesystem en PRE y PRO
-- Contactar con soporte EUT sobre lentitud de usuarios desde S3 (La Finca)
-
-DECOMISADO NETINSIGHT
-
-- Seguimiento a decomisado PRO Wintel / Unix
-- Consultar a Unix sobre estatus decomisados PRE y PRO
-- Notificar a Beatriz sobre vacaciones y contacto Jorge Crespo
-
-NY GEM:
-
-- Enviar política default de backups a Eliana
-- Notificar a Julian y Felix sobre vacaciones y contacto Jorge Crespo
+- Actualizar excel S3
+- Envíar correo a Ciru y Beatriz con datos de Jorge
 
 MEGACOMPLIANCE
 
 - Aclarar con planificaciones tema de permisos en directorio
+- Abrir petición para re-planificación de backup
+
+TREASMANMEGA
+
 - 
+
+DIGITAL ASSET CUSTODY
+
+- Despliegue de WAR en PRO?
+- Enviar correo a Javier Nieto con datos de Jorge e Iñaki
+
+MIGRACION ALLIANZ
+
+- Gestión de usuario y filesystem AIX
+- Enviar correo de actualización de estatus a Javier y Nelson (incluir a Jorge)
+
+ALADDIN
+
+- Esperar por confirmación de Mario para reanudar unificación de usuarios.
+- Enviar correo a Mario con datos de Jorge
+
+INTRANET SAM
+
+- 
+
+INNOTECH
+
+- Petición de permisos usuario transmisiones en fileshare dedicado PRO
+- Seguimiento cliente Oracle en PRE y PRO
+- Contactar con soporte EUT sobre lentitud de usuarios desde S3 (La Finca)
+
+DECOMISADO NETINSIGHT
+
+- Confirmar con Héctor Macías decomisado de activos
+
+NY GEM:
+
+- Documentar instalación de paquetes para tarea Planner SQL Server
+- Enviar correo a Julián y Félix con datos de Jorge
 
 SETTLEMENT
 
@@ -64,6 +59,10 @@ ERFCheck:
 
 - Leer hilo Yolanda-Jorge
 - Reenviar hilo a Jorge Crespo
+
+UK GLASGOW DRIVE MIGRATION
+
+- Standby
 
 SPIRIT
 
