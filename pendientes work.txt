@@ -2,6 +2,11 @@ Pendientes:
 
 ACTUALIZAR PMO (VIERNES)
 
+OTROS
+
+- Enviar correo resumen proyectos
+- 
+
 TREASMANMEGA
 
 - Extracción de datos
@@ -11,57 +16,54 @@ TREASMANMEGA
 DIGITAL ASSET CUSTODY
 
 - Despliegue de WAR en PRE
+- Despliegue de WAR en PRO?
 
 MIGRACION ALLIANZ
 
 - Gestión de usuario y filesystem AIX
-- Notificar de vacaciones y contacto con Jorge Crespo
-
-OTROS
-
-- Enviar correo resumen proyectos
-- Incluir a Jorge en hilos proyectos
-- Informar a Beatriz / Ciru sobre vacaciones. Dar contacto Jorge Crespo.
-- Informar a Mario sobre vacaciones. Dar contacto Jorge Crespo.
-- Informar a Javier Gil sobre vacaciones. Dar contacto Jorge Crespo.
-- Informar a Julian Morencia / NY sobre vacaciones. Dar contacto Jorge Crespo.
+- Notificar a Javier Gil y Nelson Contreras sobre vacaciones y contacto Jorge Crespo
 
 ALADDIN
 
 - Esperar por consulta de Mario a SAMOA
 - Aclarar estatus de unificación de usuarios
-- Notificar a Mario e informar a Jorge Crespo
+- Notificar a Mario sobre vacaciones y contacto Jorge Crespo
 
 INTRANET SAM
 
-- Completar plantilla de Rubén y abrir petición
-- Presentar a Jorge
+- Completar plantilla de Rubén y abrir petición en Snow (seguir instrucciones de Pili)
+- Notificar a Ciru sobre vacaciones y contacto Jorge Crespo
 
 INNOTECH
 
-- Delegar a Jorge
+- Petición de fileshare para control-m
+- Seguimiento filesystem en PRE y PRO
+- Contactar con soporte EUT sobre lentitud de usuarios desde S3 (La Finca)
 
 DECOMISADO NETINSIGHT
 
 - Seguimiento a decomisado PRO Wintel / Unix
 - Consultar a Unix sobre estatus decomisados PRE y PRO
-- Presentar a Jorge
+- Notificar a Beatriz sobre vacaciones y contacto Jorge Crespo
 
 NY GEM:
 
 - Enviar política default de backups a Eliana
+- Notificar a Julian y Felix sobre vacaciones y contacto Jorge Crespo
 
 MEGACOMPLIANCE
 
+- Aclarar con planificaciones tema de permisos en directorio
 - 
 
 SETTLEMENT
 
-- 
+- N/A
 
 ERFCheck:
 
 - Leer hilo Yolanda-Jorge
+- Reenviar hilo a Jorge Crespo
 
 SPIRIT
 
