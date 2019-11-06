@@ -44,6 +44,7 @@ INNOTECH
 DECOMISADO NETINSIGHT
 
 - Seguimiento a decomisado PRO Wintel / Unix
+- Consultar a Unix sobre estatus decomisados PRE y PRO
 - Presentar a Jorge
 
 NY GEM:
