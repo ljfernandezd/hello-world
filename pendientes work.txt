@@ -1,71 +1,35 @@
 Pendientes:
 
-ACTUALIZAR PMO (VIERNES)
+DAC:
 
-OTROS
+- Comprobar wars PRO vs PRE
 
-- Enviar correo resumen proyectos
-- Actualizar excel S3
-- Envíar correo a Ciru y Beatriz con datos de Jorge
+ALADDIN:
 
-MEGACOMPLIANCE
+- Comprobar usuarios paises (POL-ARG-MEX-CHI) en infra nueva SAMOA
 
-- Aclarar con planificaciones tema de permisos en directorio
-- Abrir petición para re-planificación de backup
+INTRANET SAM:
 
-TREASMANMEGA
-
-- 
-
-DIGITAL ASSET CUSTODY
-
-- Despliegue de WAR en PRO?
-- Enviar correo a Javier Nieto con datos de Jorge e Iñaki
-
-MIGRACION ALLIANZ
-
-- Gestión de usuario y filesystem AIX
-- Enviar correo de actualización de estatus a Javier y Nelson (incluir a Jorge)
-
-ALADDIN
-
-- Esperar por confirmación de Mario para reanudar unificación de usuarios.
-- Enviar correo a Mario con datos de Jorge
-
-INTRANET SAM
-
-- 
-
-INNOTECH
-
-- Petición de permisos usuario transmisiones en fileshare dedicado PRO
-- Seguimiento cliente Oracle en PRE y PRO
-- Contactar con soporte EUT sobre lentitud de usuarios desde S3 (La Finca)
-
-DECOMISADO NETINSIGHT
-
-- Confirmar con Héctor Macías decomisado de activos
+- Hablar con Ciru y ponerse al día
 
 NY GEM:
 
-- Documentar instalación de paquetes para tarea Planner SQL Server
-- Enviar correo a Julián y Félix con datos de Jorge
+- Ponerse al día
 
-SETTLEMENT
+ALLIANZ:
 
-- N/A
+- Ponerse al día
 
-ERFCheck:
+DECOMISADO NETINSIGHT:
 
-- Leer hilo Yolanda-Jorge
-- Reenviar hilo a Jorge Crespo
+- Comprobar con technical office
 
-UK GLASGOW DRIVE MIGRATION
+MEGACOMPLIANCE:
 
-- Standby
+- Revisar tema de acceso de usuario nominal
 
-SPIRIT
+INNOTECH:
 
-- Preguntar a Beatriz
+- 
 
-
+REVISAR PMO y NUEVO PROYECTO
