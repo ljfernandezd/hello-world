@@ -1,35 +1,50 @@
-Pendientes:
+Pendientes Martes 10-12-2019:
 
-DAC:
+DIGITAL ASSETS CUSTODY:
 
-- Comprobar wars PRO vs PRE
+1. Realizar comprobaciones:
 
-ALADDIN:
-
-- Comprobar usuarios paises (POL-ARG-MEX-CHI) en infra nueva SAMOA
-
-INTRANET SAM:
-
-- Hablar con Ciru y ponerse al día
-
-NY GEM:
-
-- Ponerse al día
+   - Espacio en filesystems
+   - Instancias en host de aplicación
+   - NO instancias en nodo 2
+   - Todos y solo batches del día de hoy
+   - Cambiar owner (o dar lectura a other) en directorio de log de batches
 
 ALLIANZ:
 
-- Ponerse al día
-
-DECOMISADO NETINSIGHT:
-
-- Comprobar con technical office
-
-MEGACOMPLIANCE:
-
-- Revisar tema de acceso de usuario nominal
+- Seguimiento despliegues
+- Seguimiento correo a BBDD Oracle (PSEGAPV)
+- Seguimiento petición reseteo contraseñas (PSEGAPV)
+- Gestionar filesystem EXPAPV en PRO
 
 INNOTECH:
 
-- 
+- Visibilidad servidores Qlik y Nprinting
+- Seguimiento protocolo HTTP (escalado?)
+- LLamar a Alfredo sobre permisos fileshare dedicado
+- Coordinar acceso Remedy/Snow NFQ
 
-REVISAR PMO y NUEVO PROYECTO
+HOUSEKEEPING:
+
+- Abrir tarea planner (CERT)
+
+RECORD KEEPING:
+
+- Hablar con Sistemas Wintel
+- Creación de usuarios SFTP para transmisiones (PRE y PRO)
+
+NY GEM:
+
+- Pedir acceso a funciones herramienta BBDD (consultar a Santiago)
+- Enviar usuarios existentes (Oracle y SQL Server) a Eliana (preguntar a BBDD sobre herramienta de consulta)
+
+ALADDIN:
+
+- Abrir petición para corrección de accesos SFTP Chile
+
+OTROS:
+
+- Preguntar a Sistemas Unix y Wintel sobre instalación Deepsecurity
+- Inventario de servidores y bases de datos proyectos S3
+
+PMO DAY
