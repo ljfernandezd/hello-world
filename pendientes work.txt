@@ -1,28 +1,31 @@
 Pendientes Martes 10-12-2019:
 
-DIGITAL ASSETS CUSTODY:
+MEGARA-SETTLEMENTS:
 
-1. Realizar comprobaciones:
+- Cotejar documento DT con CMDB
+- Responder correo Iñaki
+- Creacion de usuarios/roles BBDD-WAS (consultar con Oracle)
 
-   - Espacio en filesystems
-   - Instancias en host de aplicación
-   - NO instancias en nodo 2
-   - Todos y solo batches del día de hoy
-   - Cambiar owner (o dar lectura a other) en directorio de log de batches
+MEGACOMPLIANCE:
 
-ALLIANZ:
-
-- Seguimiento despliegues
-- Seguimiento correo a BBDD Oracle (PSEGAPV)
-- Seguimiento petición reseteo contraseñas (PSEGAPV)
-- Gestionar filesystem EXPAPV en PRO
+- Confirmar despliegue tecnico en PRO
 
 INNOTECH:
 
-- Visibilidad servidores Qlik y Nprinting
-- Seguimiento protocolo HTTP (escalado?)
-- LLamar a Alfredo sobre permisos fileshare dedicado
+- Resolver permisos fileshare dedicado (PRE)
 - Coordinar acceso Remedy/Snow NFQ
+
+ALLIANZ:
+
+- Hacer punto con Nelson
+- Seguimiento despliegues
+- Seguimiento correo a BBDD Oracle (PSEGAPV)
+- Seguimiento petición reseteo contraseñas (PSEGAPV)
+
+NY GEM:
+
+- Pedir acceso a funciones herramienta BBDD (consultar a Santiago)
+- Enviar usuarios existentes (Oracle y SQL Server) a Eliana (preguntar a BBDD sobre herramienta de consulta)
 
 HOUSEKEEPING:
 
@@ -33,18 +36,16 @@ RECORD KEEPING:
 - Hablar con Sistemas Wintel
 - Creación de usuarios SFTP para transmisiones (PRE y PRO)
 
-NY GEM:
-
-- Pedir acceso a funciones herramienta BBDD (consultar a Santiago)
-- Enviar usuarios existentes (Oracle y SQL Server) a Eliana (preguntar a BBDD sobre herramienta de consulta)
-
 ALADDIN:
 
 - Abrir petición para corrección de accesos SFTP Chile
 
+DIGITAL ASSETS CUSTODY:
+
+-
+
 OTROS:
 
-- Preguntar a Sistemas Unix y Wintel sobre instalación Deepsecurity
-- Inventario de servidores y bases de datos proyectos S3
+- Documento infra proyectos S3
 
 PMO DAY
