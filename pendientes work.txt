@@ -1,44 +1,35 @@
-Pendientes Martes 10-12-2019:
+Pendientes Jueves 12-12-2019:
 
 MEGARA-SETTLEMENTS:
 
-- Cotejar documento DT con CMDB
-- Responder correo Iñaki
-- Creacion de usuarios/roles BBDD-WAS (consultar con Oracle)
-
-MEGACOMPLIANCE:
-
-- Confirmar despliegue tecnico en PRO
-
-INNOTECH:
-
-- Resolver permisos fileshare dedicado (PRE)
-- Coordinar acceso Remedy/Snow NFQ
+- Hablar con Diana sobre uso actual de RAM en CERT
+- Cristina: Creacion de usuarios/roles BBDD-WAS (consultar con Oracle)
 
 ALLIANZ:
 
-- Hacer punto con Nelson
-- Seguimiento despliegues
-- Seguimiento correo a BBDD Oracle (PSEGAPV)
+- Confirmar asociación de roles a usuarios para reanudar despliegue
 - Seguimiento petición reseteo contraseñas (PSEGAPV)
+- Hablar con Isaac sobre Planificaciones
+- Pedir filesystem expapv en PRO
 
-NY GEM:
+ALADDIN:
 
-- Pedir acceso a funciones herramienta BBDD (consultar a Santiago)
-- Enviar usuarios existentes (Oracle y SQL Server) a Eliana (preguntar a BBDD sobre herramienta de consulta)
+- Corrección SFTP Chile (PRO)
+- Llamar a Mario - Info Portugal?
 
 HOUSEKEEPING:
 
 - Abrir tarea planner (CERT)
 
-RECORD KEEPING:
+INNOTECH:
 
-- Hablar con Sistemas Wintel
-- Creación de usuarios SFTP para transmisiones (PRE y PRO)
+- Petición de reporte a BBDD Oracle
+- Coordinar acceso Remedy/Snow NFQ
 
-ALADDIN:
+NY GEM:
 
-- Abrir petición para corrección de accesos SFTP Chile
+- Pedir acceso a funciones herramienta BBDD (consultar a Santiago)
+- Enviar usuarios existentes (Oracle y SQL Server) a Eliana (preguntar a BBDD sobre herramienta de consulta)
 
 DIGITAL ASSETS CUSTODY:
 
