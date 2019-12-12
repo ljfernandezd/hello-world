@@ -1,35 +1,40 @@
-Pendientes Jueves 12-12-2019:
+Pendientes Viernes 13-12-2019:
 
-MEGARA-SETTLEMENTS:
-
-- Hablar con Diana sobre uso actual de RAM en CERT
-- Cristina: Creacion de usuarios/roles BBDD-WAS (consultar con Oracle)
+PMO DAY
 
 ALLIANZ:
 
-- Confirmar asociación de roles a usuarios para reanudar despliegue
-- Seguimiento petición reseteo contraseñas (PSEGAPV)
-- Hablar con Isaac sobre Planificaciones
-- Pedir filesystem expapv en PRO
-
-ALADDIN:
-
-- Corrección SFTP Chile (PRO)
-- Llamar a Mario - Info Portugal?
-
-HOUSEKEEPING:
-
-- Abrir tarea planner (CERT)
+- Comprobar Waiver y entregar passwords a Soporte Despliegues
+- Hablar con Isaac sobre planificaciones
 
 INNOTECH:
 
-- Petición de reporte a BBDD Oracle
-- Coordinar acceso Remedy/Snow NFQ
+- Hablar con Jorge sobre tema correos
+- Usuario nominal de acceso a BBDD (Juan Manuel)
+- Responder correos a Daniel
+
+TREASMANMEGA-HOUSEKEEPING:
+
+- Bajar a conversar con Alvaro, Iñaki
+
+MEGARA-SETTLEMENTS:
+
+- Bajar a conversar con Alvaro, Iñaki sobre nuevos módulos
+- Creacion de usuarios/roles BBDD-WAS
+
+SPIRIT:
+
+- Hablar con Ruben Merchan
+- Enviar estatus actualizado a Beatriz
 
 NY GEM:
 
-- Pedir acceso a funciones herramienta BBDD (consultar a Santiago)
 - Enviar usuarios existentes (Oracle y SQL Server) a Eliana (preguntar a BBDD sobre herramienta de consulta)
+- Indicar a BBDD SQL usuarios a crear en nueva BBDD CERT
+
+ALADDIN:
+
+- Info SFTP Portugal?
 
 DIGITAL ASSETS CUSTODY:
 
@@ -39,4 +44,3 @@ OTROS:
 
 - Documento infra proyectos S3
 
-PMO DAY
