@@ -1,31 +1,30 @@
-Pendientes Viernes 13-12-2019:
-
-PMO DAY
+Pendientes Lunes 16-12-2019:
 
 ALLIANZ:
 
-- Comprobar Waiver y entregar passwords a Soporte Despliegues
-- Hablar con Isaac sobre planificaciones
+- Contactar con Antonio (BBDD Oracle) sobre passwords de usuarios para despliegue
+- Normalizar usuarios y roles de base de datos para PSEGAPV (confirmar con Nelson)
+- Abrir petición de filesystem EXPAPV (PRO)
 
 INNOTECH:
 
-- Hablar con Jorge sobre tema correos
-- Usuario nominal de acceso a BBDD (Juan Manuel)
-- Responder correos a Daniel
-
-TREASMANMEGA-HOUSEKEEPING:
-
-- Bajar a conversar con Alvaro, Iñaki
+- Determinar direccion de correos @gruposantander.com y escribir a soporte Cloudmail
+- Repaso de peticiones abiertas
+- Responder correos faltantes a Daniel
 
 MEGARA-SETTLEMENTS:
 
-- Bajar a conversar con Alvaro, Iñaki sobre nuevos módulos
-- Creacion de usuarios/roles BBDD-WAS
+- Hablar con Jorge sobre assessment de consumo actual de recursos
+- Creacion de usuarios/roles BBDD-WAS, entregar a Cristina/Javier Callejos
 
 SPIRIT:
 
 - Hablar con Ruben Merchan
 - Enviar estatus actualizado a Beatriz
+
+TREASMANMEGA-HOUSEKEEPING:
+
+- Seguimiento a uso de SMTP desde aplicación
 
 NY GEM:
 
@@ -43,4 +42,6 @@ DIGITAL ASSETS CUSTODY:
 OTROS:
 
 - Documento infra proyectos S3
+- Resumen pre-vacaciones
 
+PMO DAY
